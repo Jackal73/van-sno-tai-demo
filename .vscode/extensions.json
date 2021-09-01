@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "2gua.rainbow-brackets",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.npm-intellisense",
+    "codezombiech.gitignore",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mgmcdermott.vscode-language-babel",
+    "msjsdiag.debugger-for-chrome",
+    "oderwat.indent-rainbow",
+    "stkb.rewrap"
+  ]
+}
